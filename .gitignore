@@ -1,0 +1,22 @@
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+.Python
+env/
+venv/
+ENV/
+.venv/
+
+# Jupyter Notebook
+.ipynb_checkpoints
+
+# OS generated files
+desktop.ini
+Thumbs.db
+.DS_Store
+
+# Environment / Secrets
+.env
+.env.local
